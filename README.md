@@ -2,7 +2,7 @@
 
 ## Overview
 
-`busywin_tools.py` is a Python script designed to process and extract transactional data from BusyWin `.bds` database files. It provides functionality to connect to BusyWin databases, retrieve transactional data, process it into a unified format, and optionally export the processed data to a CSV file.
+Busywin_tools is a Python script designed to process and extract transactional data from BusyWin .bds database files. BusyWin is an accounting and business management software widely used by small and medium enterprises (SMEs) to handle tasks such as inventory management, financial accounting, and sales tracking. This script provides functionality to connect to BusyWin databases, retrieve transactional data, process it into a unified format, and optionally export the processed data to a CSV file. By automating data extraction and standardization, busywin_tools enables businesses to streamline their reporting, perform advanced analysis, and integrate BusyWin data with other systems efficiently.
 
 ## Features
 
